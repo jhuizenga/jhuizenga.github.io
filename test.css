@@ -5,3 +5,7 @@
 .bt-start-end-date {
 	display:none !important
 }
+
+[is="bt-start-end-date"] {
+	display:none !important		
+}
