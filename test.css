@@ -2,10 +2,10 @@
 	display:none !important
 }
 
-.bt-start-end-date {
+.start-date {
 	display:none !important
 }
 
-[is="bt-start-end-date"] {
-	display:none !important		
+.end-date {
+	display:none !important
 }
